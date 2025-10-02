@@ -18,4 +18,6 @@ Das Projekt ist gedacht, den Umgang mit Unit-Tests zu üben. Es wird Mockito ver
 - Erstelle Unittests für den BusinessService.
 - Erstellen Unittests für den ViewController
 
+Um die Tests laufen zu lassen und ich Java 19 verwende (+MacOS), musste ich `JAVA_HOME=$(/usr/libexec/java_home -v 19) mvn clean test` ausführen.
+
 (c) 2024 by Peter Rutschmann BBW
