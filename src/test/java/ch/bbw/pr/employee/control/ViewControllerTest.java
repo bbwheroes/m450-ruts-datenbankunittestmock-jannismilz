@@ -23,6 +23,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 /**
  * ViewControllerTest - End-to-End Tests mit MockMvc
  * Nur Services werden gemockt (E2E-Test-Aspekt)
+ * Tests mit Hilfe von KI generiert und manuell überarbeitet
  * @author Jannis Milz
  * @version 02.10.2025
  */

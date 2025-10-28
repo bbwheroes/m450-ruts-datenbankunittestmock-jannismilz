@@ -22,6 +22,7 @@ import static org.mockito.Mockito.*;
 /**
  * EmployeeServiceTest
  * Unit tests für EmployeeService mit gemockten Repositories
+ * Tests mit Hilfe von KI generiert und manuell überarbeitet
  * @author Jannis Milz
  * @version 02.10.2025
  */

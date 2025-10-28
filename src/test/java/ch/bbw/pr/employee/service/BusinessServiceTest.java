@@ -22,6 +22,7 @@ import static org.mockito.Mockito.*;
 /**
  * BusinessServiceTest - Komponententests
  * EmployeeService wird NICHT gemockt (echter Service mit gemockten Repositories)
+ * Tests mit Hilfe von KI generiert und manuell überarbeitet
  * @author Jannis Milz
  * @version 02.10.2025
  */
